@@ -4,6 +4,8 @@
 #### Web/Android Developer
 I do web and android development. I really enjoy coding and learning different programming languages and frameworks.
 
+- 🔭 I’m currently working on Cuvic Dashboard
+- 
 ## Skills
 * ⚛️ React
 * 💻 HTML, CSS, JS
@@ -13,15 +15,13 @@ I do web and android development. I really enjoy coding and learning different p
 * Programmer at Gardenia Bakeries Philippines Inc.
 * Web Developer Intern at Gardenia Bakeries Philippines Inc.
 
-- 🔭 I’m currently working on Cuvic Dashboard
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=sabalbororovic)](https://github.com/ryo-ma/github-profile-trophy)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabalbororovic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabalbororovic/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sabalbororovic.netlify.app)  
 
 <h3 align="left"> Languages </h3>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <!--HTML5-->
+  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](#) <!--HTML5-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <!--CSS3-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <!--JAVASCRIPT-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <!--REACT-->
