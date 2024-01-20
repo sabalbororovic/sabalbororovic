@@ -65,8 +65,6 @@ I do web and android development. I really enjoy coding and learning different p
   </a> 
 </p>
 
-<div>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabalbororovic&show_icons=true&count_private=true)  
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=sabalbororovic)  
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabalbororovic&show_icons=true&count_private=true)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sabalbororovic)  
 
